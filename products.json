@@ -1,0 +1,109 @@
+{
+  "store": "Uncle Matt Martial Arts Store",
+  "owner": "Uncle Matt (Matt Brooks)",
+  "status": "MOCK ONLY - placeholder images, test checkout only, no live sale",
+  "wizardfit_note": "WizardFit is Crishtian only, NOT used here",
+  "instagram": {
+    "handle": "TBD - needed from Matt",
+    "note": "Instagram mock section on site; do NOT post without Matt approval"
+  },
+  "pod_note": "POD items are PLACEHOLDERS only. No POD supplier API wired, no supplier permission yet.",
+  "products": [
+    {
+      "name": "Boxing Gloves - Training",
+      "desc": "Training gloves, padded, multiple sizes.",
+      "price_planning": "$65",
+      "image": "images/boxing-gloves.svg",
+      "image_status": "PLACEHOLDER",
+      "pod": false
+    },
+    {
+      "name": "Hand Wraps - Pair",
+      "desc": "Elastic hand wraps, pair, washable.",
+      "price_planning": "$19",
+      "image": "images/hand-wraps.svg",
+      "image_status": "PLACEHOLDER",
+      "pod": false
+    },
+    {
+      "name": "Brazilian Jiu-Jitsu Gi",
+      "desc": "Gi with belt, durable weave.",
+      "price_planning": "$89",
+      "image": "images/bjj-gi.svg",
+      "image_status": "PLACEHOLDER",
+      "pod": false
+    },
+    {
+      "name": "Focus Mitts - Pair",
+      "desc": "Curved focus mitts, pair.",
+      "price_planning": "$49",
+      "image": "images/focus-mitts.svg",
+      "image_status": "PLACEHOLDER",
+      "pod": false
+    },
+    {
+      "name": "Kick Pads / Thai Pads",
+      "desc": "Thai pads, pair, for partner training.",
+      "price_planning": "$79",
+      "image": "images/kick-pads.svg",
+      "image_status": "PLACEHOLDER",
+      "pod": false
+    },
+    {
+      "name": "Mouthguard - Custom Fit",
+      "desc": "Boil-and-bite mouthguard.",
+      "price_planning": "$25",
+      "image": "images/mouthguard.svg",
+      "image_status": "PLACEHOLDER",
+      "pod": false
+    },
+    {
+      "name": "Headgear - Sparring",
+      "desc": "Sparring headgear, padded.",
+      "price_planning": "$69",
+      "image": "images/headgear.svg",
+      "image_status": "PLACEHOLDER",
+      "pod": false
+    },
+    {
+      "name": "Shin Guards",
+      "desc": "Shin guards, pair.",
+      "price_planning": "$55",
+      "image": "images/shin-guards.svg",
+      "image_status": "PLACEHOLDER",
+      "pod": false
+    },
+    {
+      "name": "Gym / Gear Bag",
+      "desc": "Large gear bag, ventilated pocket.",
+      "price_planning": "$59",
+      "image": "images/gear-bag.svg",
+      "image_status": "PLACEHOLDER",
+      "pod": false
+    },
+    {
+      "name": "Martial Arts Belt Display",
+      "desc": "Belt rack / display, wall mount.",
+      "price_planning": "$45",
+      "image": "images/belt-display.svg",
+      "image_status": "PLACEHOLDER",
+      "pod": false
+    },
+    {
+      "name": "POD Tee - Martial Arts Design",
+      "desc": "Print-on-demand tee, design TBD by Matt. PLACEHOLDER only.",
+      "price_planning": "$35",
+      "image": "images/pod-tee.svg",
+      "image_status": "PLACEHOLDER",
+      "pod": true
+    },
+    {
+      "name": "POD Hoodie - Martial Arts Design",
+      "desc": "Print-on-demand hoodie, design TBD by Matt. PLACEHOLDER only.",
+      "price_planning": "$55",
+      "image": "images/pod-hoodie.svg",
+      "image_status": "PLACEHOLDER",
+      "pod": true
+    }
+  ]
+}
